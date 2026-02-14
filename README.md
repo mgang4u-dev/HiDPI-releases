@@ -38,7 +38,3 @@ HiDPI는 이 제한을 해제하여, **2K 모니터에서도 Retina 품질의 �
 
 macOS에서 2K 모니터는 기본적으로 Standard 모드만 제공합니다.
 HiDPI 앱을 사용하면 숨겨진 HiDPI 해상도를 활성화하여 Retina 디스플레이와 동일한 렌더링 품질을 얻을 수 있습니다.
-
-## License
-
-MIT License
