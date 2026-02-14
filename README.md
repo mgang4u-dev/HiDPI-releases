@@ -10,7 +10,7 @@ HiDPI는 이 제한을 해제하여, **2K 모니터에서도 Retina 품질의 �
 
 ## Screenshot
 
-<img width="360" alt="HiDPI" src="screenshot.png?v=0.3.0">
+<img width="360" alt="HiDPI" src="https://raw.githubusercontent.com/mgang4u-dev/HiDPI-releases/main/screenshot.png">
 
 ## Download
 
